@@ -1,1 +1,1 @@
-https://github.com/Philippe6ak/PracticumProject1
+https://github.com/Philippe6ak/ono-tebe-nado
