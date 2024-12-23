@@ -87,6 +87,7 @@
   .cover__title {
     display: flex;
     flex-direction: column;
+    gap: 20px;
     justify-content: space-between;
     position: relative;
     color: #fff;
